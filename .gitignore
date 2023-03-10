@@ -1,0 +1,9 @@
+.settings/*
+screenshots/
+test-output/
+target/
+.project
+.classpath
+.idea/
+*.iml
+*.class
